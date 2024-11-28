@@ -158,6 +158,7 @@ oracle.install.db.OSKMDBA_GROUP=dba
 oracle.install.db.OSRACDBA_GROUP=dba  
 ...
 ```
+[Mi archivo de instalacion](./db_install.rsp)
 
 Ejecutamos el instalador en modo silencioso con el siguiente comando:
 
